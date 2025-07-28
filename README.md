@@ -12,3 +12,4 @@ This project was created as part of my web development learning journey.
 
 
 **Calculator Screenshot**
+https://github.com/CodingWithHaseeb/Calculator/blob/4a5f6a8fb94aff6f0b2c8f567179c3430d3f33bb/Calculator.png
